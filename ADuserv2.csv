@@ -1,0 +1,2 @@
+кантемир,калов,А.,kalov,1111,програмист,P@ssw0rd,"OU=Users,OU=SPB,OU=RU,DC=winitpro,DC=ru"
+Имя OU, в котором нужно создать пользователя указывается в формате distinguishedName ( "OU=Users,OU=SPB,OU=RU,DC=winitpro,DC=ru" ). Значение нужно взят в двойные кавычки (т.к. строка содежрит запятые);
